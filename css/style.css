@@ -1,0 +1,56 @@
+.left-block {
+	float: left;
+	width: 636px;
+	margin-right: 20px;
+}
+.right-block {
+	float: left;
+	width: 636px;
+}
+.container {
+	width: 1324px;
+	margin: 0 auto;
+}
+.title{
+	margin-top: 80px;
+	margin-bottom: 80px;
+	font-size: 22px;
+	font-weight: medium;
+	color: #FF7A00;
+}
+.block-title{
+	font-size: 36px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.main-text {
+	font-size: 16px;
+	color: #7B7B7B;
+	width: 636px;
+}
+.clear{
+	clear: both;
+}
+.line-1{
+	margin-bottom: 90px;
+}
+.logo{
+	float: left;
+	margin:4px 119px 24px 140px ;
+}
+/*ნავიგაციას float:left-ს რომ ვუთითებდი 
+არ ჯდებოდა გვერდიგვერდ, უკიდურეს მარცხენა
+ მხარეს ჯერ ნავიგაცია ჯდებოდა და შემდეგ ლოგო
+  მარჯვენა მხარეს ; */
+.navigation{
+	float: right;
+	margin: 48px 730px 48px 119px;
+}
+.clear{
+	clear: both;
+}
+.nav-li{
+	float: left;
+	margin-right: 45px;
+}
